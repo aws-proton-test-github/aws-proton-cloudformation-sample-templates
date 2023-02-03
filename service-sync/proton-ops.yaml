@@ -1,6 +1,6 @@
 sync:
   services:
     service-crud:
-      - alpha:
-          branch: main
-          spec: service-sync/dev/service-sync-dev.yaml
+      alpha:
+        branch: main
+        spec: service-sync/dev/service-sync-dev.yaml
