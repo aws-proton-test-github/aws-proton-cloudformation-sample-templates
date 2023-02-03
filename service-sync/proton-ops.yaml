@@ -4,3 +4,6 @@ sync:
       alpha:
         branch: main
         spec: service-sync/dev/service-sync-dev.yaml
+      beta: 
+        branch: main
+        spec: service-sync/dev/service-sync-dev.yaml
