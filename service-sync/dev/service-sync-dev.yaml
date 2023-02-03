@@ -5,4 +5,5 @@ pipeline:
 instances:
   - name: alpha
     environment: lambda-env
-    spec: {}
+  - name: beta
+    environment: lambda-env
