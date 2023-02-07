@@ -1,0 +1,6 @@
+sync:
+  services:
+    service-crud-2:
+      alpha:
+        branch: main
+        spec: service-sync.yaml
