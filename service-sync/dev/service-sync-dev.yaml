@@ -1,9 +1,0 @@
-proton: ServiceSpec
-pipeline:
-  unit_test_command: echo 'add your unit test command here'
-  packaging_command: make publish
-instances:
-  - name: alpha
-    environment: lambda-env
-  - name: beta
-    environment: lambda-env
