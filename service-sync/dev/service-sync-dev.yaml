@@ -1,4 +1,4 @@
 proton: ServiceSpec
 instances:
-  - name: alpha
-    environment: lambda-env
+  - name: ste-instance
+    environment: ste-env
