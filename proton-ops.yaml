@@ -1,0 +1,6 @@
+sync:
+  services:
+    ste-service:
+      ste-instance:
+        branch: main
+        spec: service-sync/dev/service-sync-dev.yaml
