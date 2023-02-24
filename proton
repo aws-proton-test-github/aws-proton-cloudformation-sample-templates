@@ -1,0 +1,6 @@
+sync:
+  services:
+    service-crud:
+      alpha:
+        branch: main
+        spec: proton
