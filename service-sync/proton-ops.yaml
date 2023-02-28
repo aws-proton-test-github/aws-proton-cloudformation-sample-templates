@@ -1,6 +1,4 @@
-sync:
-  services:
-    service-crud:
-      alpha:
-        branch: main
-        spec: service-sync/dev/service-sync-dev.yaml
+proton: ServiceSpec
+instances:
+  - name: alpha-stack-test
+    environment: lambda-env
