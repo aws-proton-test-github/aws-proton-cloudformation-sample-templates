@@ -1,6 +1,6 @@
 sync:
   services:
-    service-crud:
-      alpha:
+    service-crud-3:
+      alpha-stack-test:
         branch: main
         spec: service-sync/dev/service-sync-dev.yaml
