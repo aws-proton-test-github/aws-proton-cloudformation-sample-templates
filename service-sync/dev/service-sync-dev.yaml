@@ -2,3 +2,4 @@ proton: ServiceSpec
 instances:
   - name: alpha
     environment: lambda-env
+    spec: {}
