@@ -1,0 +1,4 @@
+proton: ServiceSpec
+instances:
+  - name: alpha-stack-test
+    environment: lambda-env
