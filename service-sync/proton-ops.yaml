@@ -2,5 +2,5 @@ sync:
   services:
     service-crud:
       alpha:
-        branch: main
+        branch: dev
         spec: ./service-sync/dev/service-sync-dev.yaml
