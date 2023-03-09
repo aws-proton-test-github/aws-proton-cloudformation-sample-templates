@@ -1,0 +1,6 @@
+sync:
+  services:
+    service-crud-3:
+      alpha-stack-test:
+        branch: proton--470b3555-5802-4b63-8b6d-fbe30d79f03e
+        spec: sync.yaml
