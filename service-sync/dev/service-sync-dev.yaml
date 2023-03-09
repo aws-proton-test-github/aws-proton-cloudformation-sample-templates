@@ -2,5 +2,17 @@ proton: ServiceSpec
 instances:
   - name: alpha
     environment: lambda-env
+    spec:
+      resource_name: "task"
+      resource_handler: "src/api"
+      lambda_memory: 512
+      lambda_timeout: 30
+      lambda_runtime: "ruby2.7"
   - name: beta
     environment: lambda-env
+     spec:
+      resource_name: "task"
+      resource_handler: "src/api"
+      lambda_memory: 512
+      lambda_timeout: 30
+      lambda_runtime: "ruby2.7"
