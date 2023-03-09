@@ -3,4 +3,4 @@ sync:
     service-crud:
       alpha:
         branch: main
-        spec: service-sync/dev/service-sync-dev.yaml
+        spec: /service-sync/dev/service-sync-dev.yaml
