@@ -1,0 +1,6 @@
+sync:
+  services:
+    whatever-service:
+      whatever-service:
+        branch: dev
+        spec: whatever-service
