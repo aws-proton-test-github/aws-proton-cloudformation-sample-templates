@@ -1,0 +1,6 @@
+sync:
+  services:
+    whatever-service:
+      whatever-service-alpha:
+        branch: main
+        spec: service-sync.yaml
