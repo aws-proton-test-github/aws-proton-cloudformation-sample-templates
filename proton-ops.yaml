@@ -1,0 +1,6 @@
+sync:
+  services:
+    some-service:
+      some-instance:
+        branch: main
+        spec: dev
