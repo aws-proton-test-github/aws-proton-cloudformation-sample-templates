@@ -1,6 +1,6 @@
 sync:
   services:
-    service-crud:
-      alpha:
-        branch: main
-        spec: ./service-sync/dev/service-sync-dev.yaml
+    should-delete:
+      should-delete:
+        branch: dev
+        spec: service-sync/dev/service-sync-dev.yaml
