@@ -1,0 +1,4 @@
+proton: ServiceSpec
+instances:
+  - name: some-instance
+    environment: lambda-env
