@@ -1,0 +1,6 @@
+sync:
+  services:
+    service-crud-pt-4:
+      gamma:
+        branch: main
+        spec: dev-synv
