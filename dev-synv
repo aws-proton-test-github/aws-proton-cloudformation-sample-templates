@@ -1,0 +1,4 @@
+proton: ServiceSpec
+instances:
+  - name: gamma
+    environment: lambda-env
