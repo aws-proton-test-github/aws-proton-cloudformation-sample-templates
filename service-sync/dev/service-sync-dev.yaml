@@ -1,12 +1,7 @@
 proton: ServiceSpec
+pipeline:
+  unit_test_command: echo 'add your unit test command here'
+  packaging_command: make publish
 instances:
-  - name: alpha
-    environment: lambda-env
-    spec:
-      resource_name: "task"
-      resource_handler: "src/api"
-      lambda_memory: 512
-      lambda_timeout: 30
-      lambda_runtime: "ruby2.7"
-  - name: beta
+  - name: delete-now
     environment: lambda-env
