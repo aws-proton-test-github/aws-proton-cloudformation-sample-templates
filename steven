@@ -1,0 +1,6 @@
+sync:
+  services:
+    steven:
+      delete-now:
+        branch: dev
+        spec: service-sync/dev/service-sync-dev.yaml
