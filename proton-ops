@@ -1,0 +1,6 @@
+sync:
+  services:
+    service-sync-super-test:
+      sfdffdf:
+        branch: dev
+        spec: gcvfgfg
